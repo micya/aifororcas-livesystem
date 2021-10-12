@@ -138,5 +138,3 @@ Create local.settings.json in the current directory (NotificationSystem) using t
 1. Go to the "orcanotification" function app (link 3 above). 
 2. On the "Overview" tab, make sure the status of the function shows running.
 3. On the "Functions" tab, you should see all the functions of the notification system. Enable/Disable as needed.
-
-test
